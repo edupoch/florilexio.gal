@@ -36,3 +36,5 @@ jobs:
                       **/package*.json
                       **/tailwind.config.js
                       **/.gitignore
+                      **/cgi-bin
+                      **/.well-known
